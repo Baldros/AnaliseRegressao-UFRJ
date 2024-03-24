@@ -53,18 +53,27 @@ logística.
 ## BIBLIOGRAFIA RECOMENDADA:
 [1] Montgomery, Douglas C. [et al.]. Introduction to linear regression analysis — 5.ed. — Neu Jersey : J. Wiley & Sons, 2012
 (livro texto).
+
 [2] DRAPER, Norman R. Applied Regression Analysis. — 02 — New York: J. Wiley; Chichester : J. Wiley, c1981.
+
 [3] DOBSON, Annette J., BARNETT, Adrian G. An introduction to generalized linear models / –. — 3.ed.– — Boca Raton : CRC
 Press, c2008.
+
 [4] Gelman, Andrew e HILL, Jennifer. Data analysis using regression and multilevel/hierarchical models. — Cambridge (ENK)
 : Cambridge University Press, 2007.
+
 [5] WEISBERG, Sanford. Applied Linear REgression- — New York : J. Wiley; Chichester : J. Wiley, C1980.
+
 [6] Rawlings, john O. [et al.] Applied regression analysis : a research tool– — 2. ed.– — New York : Springer-Verlag, c1998
+
 [7] NETER, J. [et al.]. Applied linear regression models. — HOMEWOOD : R. D. IRWIN, s1983.
-Bibliografia adicional:
+
+### Bibliografia adicional:
 T. Hastie, R. Tibshirani, and J. Friedman (2009). The Elements of Statistical Learning (2a ed.), Springer Series in Statistics
 Springer New York Inc., New York, NY, USA.
+
 Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani (2013). An Introduction to Statistical Learning : with
 Applications in R. New York :Springer.
+
 Trevor Hastie, Robert Tibshirani , Martin Wainwright (2015). Statistical Learning with Sparsity: The Lasso and eneralizations.
 Chapman & Hall/CRC
