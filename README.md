@@ -50,7 +50,7 @@ comparação de modelos, distribuição amostral da verossimilhança; testes de 
 logística.
 
 
-** BIBLIOGRAFIA RECOMENDADA:
+## BIBLIOGRAFIA RECOMENDADA:
 [1] Montgomery, Douglas C. [et al.]. Introduction to linear regression analysis — 5.ed. — Neu Jersey : J. Wiley & Sons, 2012
 (livro texto).
 [2] DRAPER, Norman R. Applied Regression Analysis. — 02 — New York: J. Wiley; Chichester : J. Wiley, c1981.
