@@ -3,8 +3,11 @@
 ## Introdução:
 A **análise de regressão** é uma técnica estatística essencial na área de dados e **aprendizagem estatística**, permitindo a modelagem e compreensão das relações entre variáveis. Ela desempenha um papel crucial na previsão e inferência sobre o comportamento dos dados, facilitando a identificação de padrões e a tomada de decisões fundamentadas. Na esfera de **aprendizagem estatística**, a análise de regressão é fundamental para o desenvolvimento e avaliação de modelos preditivos, fornecendo insights sobre a relevância das variáveis de entrada na previsão do resultado desejado. Dominar essa técnica é indispensável para profissionais que buscam extrair insights valiosos dos dados e desenvolver modelos precisos e robustos.
 
+**Uma pontuação importante**
+Note que eu optei por usar **aprendizagem estatística** à **Machine Learning**. Isso se dá porque **análise de regressão** é um curso de **estatística**, ou seja, toda a terminologia aqui utilizada estará sob o viés não só do vocabulário, mas também da forma com a qual a estatística lidar com os modelos. Muitas vezes vamos ver durante os códigos e explicações, situações que alguém já familiarizado com área de Machine Learning terá uma palavra pronta para aquilo, mas nem sempre os vocabulários e a forma de abordar o problema irão coincidir. Acho importante fazer esse *disclaimer* agora, para o melhor entendimento dos códigos.
+
 ## Linguagem de Programação Utilizada:
-Aqui, todos os códigos implementados estaram na [linguagem r](https://www.r-project.org/other-docs.html), independente da extensão que os arquivos esteja, (".r",".Rmd",".ipynb", etc.). Esse é um curso de estatísca, então toda a linguagem aqui utilizada estará sob o viés não só do vocabulário, mas pela forma estatística de se lidar com os modelos.
+Aqui, todos os códigos implementados estaram na [linguagem r](https://www.r-project.org/other-docs.html), independente da extensão que os arquivos esteja, (".r",".Rmd",".ipynb", etc.). 
 
 ## EMENTA:
 Regressão linear simples. Análise de ajuste. Estudo dos resíduos. Regressão múltipla. Correlação múltipla. Violações de
