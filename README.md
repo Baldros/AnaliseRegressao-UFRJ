@@ -1,7 +1,10 @@
 # AnaliseRegressao-UFRJ
 
 ## Introdução:
-A análise de regressão é uma técnica estatística essencial na área de dados e machine learning, permitindo a modelagem e compreensão das relações entre variáveis. Ela desempenha um papel crucial na previsão e inferência sobre o comportamento dos dados, facilitando a identificação de padrões e a tomada de decisões fundamentadas. Na esfera de machine learning, a análise de regressão é fundamental para o desenvolvimento e avaliação de modelos preditivos, fornecendo insights sobre a relevância das variáveis de entrada na previsão do resultado desejado. Dominar essa técnica é indispensável para profissionais que buscam extrair insights valiosos dos dados e desenvolver modelos precisos e robustos.
+A **análise de regressão** é uma técnica estatística essencial na área de dados e **aprendizagem estatística**, permitindo a modelagem e compreensão das relações entre variáveis. Ela desempenha um papel crucial na previsão e inferência sobre o comportamento dos dados, facilitando a identificação de padrões e a tomada de decisões fundamentadas. Na esfera de **aprendizagem estatística**, a análise de regressão é fundamental para o desenvolvimento e avaliação de modelos preditivos, fornecendo insights sobre a relevância das variáveis de entrada na previsão do resultado desejado. Dominar essa técnica é indispensável para profissionais que buscam extrair insights valiosos dos dados e desenvolver modelos precisos e robustos.
+
+## Linguagem de Programação Utilizada:
+Aqui, todos os códigos implementados estaram na [linguagem r](https://www.r-project.org/other-docs.html), independente da extensão que os arquivos esteja, (".r",".Rmd",".ipynb", etc.). Esse é um curso de estatísca, então toda a linguagem aqui utilizada estará sob o viés não só do vocabulário, mas pela forma estatística de se lidar com os modelos.
 
 ## EMENTA:
 Regressão linear simples. Análise de ajuste. Estudo dos resíduos. Regressão múltipla. Correlação múltipla. Violações de
